@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is aditional test case to add</description>
+   <name>SeconfWebTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59b954ce-f5cc-4304-8b05-dd6c04b1660a</testCaseGuid>
+</TestCaseEntity>
